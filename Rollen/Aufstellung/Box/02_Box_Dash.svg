@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Dash" xmlns="http://www.w3.org/2000/svg" width="12" height="112" viewBox="0 0 12 112">
-  <rect id="Hintergrund" x="0" width="12" height="112" fill="#555556"/>
-  <path id="Trennstrich" d="M0,68.53l9.65-25.07h2.35l-9.68,25.07H0Z" fill="#fff"/>
+<svg id="Dash" xmlns="http://www.w3.org/2000/svg" width="18" height="112" viewBox="0 0 18 112">
+  <rect id="Hintergrund" x="-31.57" width="81.15" height="112" fill="#555556"/>
+  <path id="Trennstrich" d="M3,68.53l9.65-25.07h2.35l-9.68,25.07h-2.32Z" fill="#fff"/>
 </svg>
