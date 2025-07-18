@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="100" viewBox="0 0 106 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="108.4" height="100" viewBox="0 0 108.4">
   <g id="Hintergrund">
-    <rect id="Hintergrund-2" data-name="Hintergrund" x="3" width="100" height="100" rx="6" ry="6" fill="#555556"/>
+    <rect id="Hintergrund-2" data-name="Hintergrund" x="4.2" width="100" height="100" rx="6" ry="6" fill="#555556"/>
   </g>
   <g id="Solokiller">
     <path d="M28.86,80.39c-6.82,0-10.82-1.7-10.99-1.78-.53-.24-.78-.86-.54-1.39.06-.14.15-.26.26-.36l62.44-55.96c.93-.83,2.14-1.29,3.39-1.28,1.41,0,2.77.57,3.76,1.58,1.03,1.04,1.59,2.46,1.55,3.93-.03,1.34-.62,2.61-1.61,3.51l-15.14,13.57,5.74,6.41c.94,1.03.89,2.61-.11,3.58-5.68,5.27-24.9,22.69-33.82,25.65-4.81,1.64-9.85,2.5-14.93,2.54Z" fill="none" stroke="#e8eaed" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
