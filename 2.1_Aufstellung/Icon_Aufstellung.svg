@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="100" viewBox="0 0 106 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="108.4" height="100" viewBox="0 0 108.4">
   <g id="Hintergrund">
-    <rect id="Hintergrund-2" data-name="Hintergrund" x="3" width="100" height="100" rx="6" ry="6" fill="#555556"/>
+    <rect id="Hintergrund-2" data-name="Hintergrund" x="4.2" width="100" height="100" rx="6" ry="6" fill="#555556"/>
   </g>
   <g id="Fehler">
     <path d="M70.26,70.08l-16.01-16.01h0l-18.52-18.52h0l-2.81-2.81-2.66,2.66,4.36,4.38v24.84c0,2.07,1.7,3.77,3.77,3.77h24.84l4.36,4.36,2.68-2.66ZM38.39,62.73l6.6-8.49,4.71,5.68,2.21-2.85,5.66,5.66h-19.18ZM68.56,63.05l-28.61-28.61h24.84c2.07,0,3.77,1.7,3.77,3.77v24.84Z" fill="#e8eaed"/>
